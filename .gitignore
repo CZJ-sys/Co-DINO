@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+checkpoint/
+logs/
+analysis/
+slurm-*.out
+slurm-*.err

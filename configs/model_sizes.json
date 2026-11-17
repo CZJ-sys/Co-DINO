@@ -1,0 +1,6 @@
+{
+  "T": {"embed_dim": 24, "depths": [2, 2, 2, 2]},
+  "S": {"embed_dim": 32, "depths": [2, 2, 2, 2]},
+  "B": {"embed_dim": 38, "depths": [2, 2, 2, 2]},
+  "L": {"embed_dim": 48, "depths": [2, 2, 2, 2]}
+}
